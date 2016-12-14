@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "sails-hook-blueprint-sum",
+        "scope": null,
+        "escapedName": "sails-hook-blueprint-sum",
+        "name": "sails-hook-blueprint-sum",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/srv/apps/system"
+    ]
+  ],
+  "_from": "sails-hook-blueprint-sum@latest",
+  "_id": "sails-hook-blueprint-sum@0.0.1",
+  "_inCache": true,
+  "_location": "/sails-hook-blueprint-sum",
+  "_nodeVersion": "5.0.0",
+  "_npmUser": {
+    "name": "gregkapustin",
+    "email": "gregory@kapustin.fr"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "sails-hook-blueprint-sum",
+    "scope": null,
+    "escapedName": "sails-hook-blueprint-sum",
+    "name": "sails-hook-blueprint-sum",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "sails-hook-blueprint-sum",
+  "_where": "/srv/apps/system",
+  "author": {
+    "name": "Gregory Kapustin"
+  },
+  "bugs": {
+    "url": "https://github.com/GregKapustin/sails-hook-blueprint-sum/issues"
+  },
+  "dependencies": {
+    "lodash": "3.10.1",
+    "merge-defaults": "0.2.1",
+    "pluralize": "1.2.1"
+  },
+  "description": "Add default blueprint sum route to evry model",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/GregKapustin/sails-hook-blueprint-sum",
+  "keywords": [
+    "sails",
+    "blueprint",
+    "hook",
+    "sum"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "gregkapustin",
+      "email": "gregory@kapustin.fr"
+    }
+  ],
+  "name": "sails-hook-blueprint-sum",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregKapustin/sails-hook-blueprint-sum"
+  },
+  "sails": {
+    "isHook": true
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}
